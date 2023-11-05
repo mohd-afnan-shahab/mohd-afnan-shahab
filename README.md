@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **mohdafnan545@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1HHrs2cCp-bJLOdjaASbptielZUCzr3tv](https://drive.google.com/drive/folders/1HHrs2cCp-bJLOdjaASbptielZUCzr3tv)
-
 - ⚡ Fun fact **Once met a celebrity at a local cafe.**
 
 <h3 align="left">Connect with me:</h3>
