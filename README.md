@@ -13,11 +13,11 @@
 
 - 🌱 Currently learning **React JS, Redux**
 
-- 💬 Ask me about **DSA, C++, React, JavaScript, tailwind CSS**
+- 💬 Ask me about- **DSA, C++, React, JavaScript, tailwind CSS, Node.js**
 
-- 📫 How to reach me **mohdafnan545@gmail.com**
+- 📫 How to reach me- **mohdafnan545@gmail.com**
 
-- ⚡ Fun fact **Once met a celebrity at a local cafe.**
+- ⚡ Fun fact- **mastering algorithms like a pro, while secretly building a job-finding robot!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
