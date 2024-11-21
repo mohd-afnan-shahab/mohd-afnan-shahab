@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/mohdafnan_" target="blank"><img src="https://img.shields.io/twitter/follow/mohdafnan_?logo=twitter&style=for-the-badge" alt="mohdafnan_" /></a> </p>
 
-- 🔭 Currently working in the development of an **Article Summarizer**
+- 🔭 Currently working in the development of an **Rapid Content Gatherer**
 
 - 🌱 Currently learning **React JS, Redux**
 
-- 💬 Ask me about- **DSA, C++, React, JavaScript, tailwind CSS, Node.js**
+- 💬 Ask me about- **DSA, C++, React.js, JavaScript, tailwind CSS, Node.js**
 
 - 📫 How to reach me- **mohdafnan545@gmail.com**
 
